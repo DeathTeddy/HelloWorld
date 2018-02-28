@@ -3,6 +3,8 @@ package com.example.kentec.myapplication;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+// Sometimes I dream about cheese
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
